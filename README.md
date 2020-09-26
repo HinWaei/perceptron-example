@@ -1,4 +1,4 @@
-# Perceptron-example
+# An example of perceptron
 A simple linear perceptron 
 
 ```Python
